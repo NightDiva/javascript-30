@@ -1,1 +1,1 @@
-alert("p\np");
+alert("p\np"); //"/n"代表换行
